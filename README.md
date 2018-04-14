@@ -5,7 +5,7 @@ Check it here: https://tpliakas.github.io/CSS3-Animations-Earth-and-Sun/
 
 ### Prerequisites
 
-The game runs on every modern browser. No Prerequisites.
+The animation runs on every modern browser. No Prerequisites.
 
 ## Built With
 
